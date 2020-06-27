@@ -1,0 +1,758 @@
+multi-1:
+    name:
+        - Alien-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 9
+        - 10
+
+multi-1s:
+    name:
+        - Alien-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-2:
+    name:
+        - Amidar-ram-v4 
+    num_main: 10
+    num_adf: 20
+    h_mains: 
+        - 9
+        - 10
+
+multi-2s:
+    name:
+        - Amidar-ram-v4 
+    num_main: 10
+    num_adf: 20
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-3:
+    name:
+        - Assault-ram-v4 
+    num_main: 7
+    num_adf: 14
+    h_mains: 
+        - 9
+        - 10
+
+multi-3s:
+    name:
+        - Assault-ram-v4 
+    num_main: 7
+    num_adf: 14
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-4:
+    name:
+        - Asterix-ram-v4 
+    num_main: 9
+    num_adf: 18
+    h_mains: 
+        - 9
+        - 10
+
+multi-4s:
+    name:
+        - Asterix-ram-v4 
+    num_main: 9
+    num_adf: 18
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-5:
+    name:
+        - Asteroids-ram-v4 
+    num_main: 14
+    num_adf: 28
+    h_mains: 
+        - 9
+        - 10
+
+multi-5s:
+    name:
+        - Asteroids-ram-v4 
+    num_main: 14
+    num_adf: 28
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-6:
+    name:
+        - Atlantis-ram-v4
+    num_main: 4
+    num_adf: 8
+    h_mains: 
+        - 9
+        - 10
+
+multi-6s:
+    name:
+        - Atlantis-ram-v4 
+    num_main: 4
+    num_adf: 8
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-7:
+    name:
+        - BankHeist-ram-v4
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 9
+        - 10
+
+multi-7s:
+    name:
+        - BankHeist-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-8:
+    name:
+        - BattleZone-ram-v4
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 9
+        - 10
+
+multi-8s:
+    name:
+        - BattleZone-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-9:
+    name:
+        - BeamRider-ram-v4
+    num_main: 9
+    num_adf: 18
+    h_mains: 
+        - 9
+        - 10
+
+multi-9s:
+    name:
+        - BeamRider-ram-v4 
+    num_main: 9
+    num_adf: 18
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-10:
+    name:
+        - Berzerk-ram-v4
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 9
+        - 10
+
+multi-10s:
+    name:
+        - Berzerk-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-11:
+    name:
+        - Bowling-ram-v4 
+    num_main: 6
+    num_adf: 12
+    h_mains: 
+        - 9
+        - 10
+
+multi-11s:
+    name:
+        - Bowling-ram-v4 
+    num_main: 6
+    num_adf: 12
+    h_mains: 
+        - 8
+        - 9
+        - 10
+    
+multi-12:
+    name:
+        - Boxing-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 9
+        - 10
+
+multi-12s:
+    name:
+        - Boxing-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-13:
+    name:
+        - Breakout-ram-v4 
+    num_main: 4
+    num_adf: 8
+    h_mains: 
+        - 9
+        - 10
+
+multi-13s:
+    name:
+        - Breakout-ram-v4 
+    num_main: 4
+    num_adf: 8
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-14:
+    name:
+        - Centipede-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 9
+        - 10
+
+multi-14s:
+    name:
+        - Centipede-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-15:
+    name:
+        - ChopperCommand-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 9
+        - 10
+
+multi-15s:
+    name:
+        - ChopperCommand-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-16:
+    name:
+        - CrazyClimber-ram-v4 
+    num_main: 9
+    num_adf: 18
+    h_mains: 
+        - 9
+        - 10
+
+multi-16s:
+    name:
+        - CrazyClimber-ram-v4 
+    num_main: 9
+    num_adf: 18
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-17:
+    name:
+        - Defender-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 9
+        - 10
+
+multi-17s:
+    name:
+        - Defender-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-18:
+    name:
+        - DemonAttack-ram-v4 
+    num_main: 6
+    num_adf: 12
+    h_mains: 
+        - 9
+        - 10
+
+multi-18s:
+    name:
+        - DemonAttack-ram-v4 
+    num_main: 6
+    num_adf: 12
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-19:
+    name:
+        - DoubleDunk-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 9
+        - 10
+
+multi-19s:
+    name:
+        - DoubleDunk-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-20:
+    name:
+        - Enduro-ram-v4 
+    num_main: 9
+    num_adf: 18
+    h_mains: 
+        - 9
+        - 10
+
+multi-20s:
+    name:
+        - Enduro-ram-v4 
+    num_main: 9
+    num_adf: 18
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-21:
+    name:
+        - FishingDerby-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 9
+        - 10
+
+multi-21s:
+    name:
+        - FishingDerby-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-22:
+    name:
+        - Freeway-ram-v4 
+    num_main: 3
+    num_adf: 6
+    h_mains: 
+        - 9
+        - 10
+
+multi-22s:
+    name:
+        - Freeway-ram-v4 
+    num_main: 3
+    num_adf: 6
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-23:
+    name:
+        - Frostbite-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 9
+        - 10
+
+multi-23s:
+    name:
+        - Frostbite-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-24:
+    name:
+        - Gopher-ram-v4 
+    num_main: 8
+    num_adf: 16
+    h_mains: 
+        - 9
+        - 10
+
+multi-24s:
+    name:
+        - Gopher-ram-v4 
+    num_main: 8
+    num_adf: 16
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-25:
+    name:
+        - Gravitar-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 9
+        - 10
+
+multi-25s:
+    name:
+        - Gravitar-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-26:
+    name:
+        - Hero-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 9
+        - 10
+
+multi-26s:
+    name:
+        - Hero-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-27:
+    name:
+        - IceHockey-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 9
+        - 10
+
+multi-27s:
+    name:
+        - IceHockey-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-28:
+    name:
+        - Jamesbond-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 9
+        - 10
+
+multi-28s:
+    name:
+        - Jamesbond-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-29:
+    name:
+        - Kangaroo-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 9
+        - 10
+
+multi-29s:
+    name:
+        - Kangaroo-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-30:
+    name:
+        - Krull-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 9
+        - 10
+
+multi-30s:
+    name:
+        - Krull-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 8
+        - 9
+        - 10
+multi-31:
+    name:
+        - KungFuMaster-ram-v4 
+    num_main: 14
+    num_adf: 28
+    h_mains: 
+        - 9
+        - 10
+
+multi-31s:
+    name:
+        - KungFuMaster-ram-v4 
+    num_main: 14
+    num_adf: 28
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-32:
+    name:
+        - MontezumaRevenge-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 9
+        - 10
+
+multi-32s:
+    name:
+        - MontezumaRevenge-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-33:
+    name:
+        - MsPacman-ram-v4 
+    num_main: 9
+    num_adf: 18
+    h_mains: 
+        - 9
+        - 10
+
+multi-33s:
+    name:
+        - MsPacman-ram-v4 
+    num_main: 9
+    num_adf: 18
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-34:
+    name:
+        - NameThisGame-ram-v4 
+    num_main: 6
+    num_adf: 12
+    h_mains: 
+        - 9
+        - 10
+
+multi-34s:
+    name:
+        - NameThisGame-ram-v4 
+    num_main: 6
+    num_adf: 12
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-35:
+    name:
+        - Pong-ram-v4 
+    num_main: 6
+    num_adf: 12
+    h_mains: 
+        - 9
+        - 10
+
+multi-35s:
+    name:
+        - Pong-ram-v4 
+    num_main: 6
+    num_adf: 12
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-36:
+    name:
+        - PrivateEye-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 9
+        - 10
+
+multi-36s:
+    name:
+        - PrivateEye-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-37:
+    name:
+        - Qbert-ram-v4 
+    num_main: 6
+    num_adf: 12
+    h_mains: 
+        - 9
+        - 10
+
+multi-37s:
+    name:
+        - Qbert-ram-v4 
+    num_main: 6
+    num_adf: 12
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-38:
+    name:
+        - Seaquest-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 9
+        - 10
+
+multi-38s:
+    name:
+        - Seaquest-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-39:
+    name:
+        - SpaceInvaders-ram-v4 
+    num_main: 6
+    num_adf: 12
+    h_mains: 
+        - 9
+        - 10
+
+multi-39s:
+    name:
+        - SpaceInvaders-ram-v4 
+    num_main: 6
+    num_adf: 12
+    h_mains: 
+        - 8
+        - 9
+        - 10
+
+multi-40:
+    name:
+        - Tennis-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 9
+        - 10
+
+multi-40s:
+    name:
+        - Tennis-ram-v4 
+    num_main: 18
+    num_adf: 36
+    h_mains: 
+        - 8
+        - 9
+        - 10
